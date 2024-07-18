@@ -1,8 +1,36 @@
-# React + Vite
+# VideoHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the VideoHub repository! This project is a React and Chakra UI-based platform for uploading and viewing video content.
 
-Currently, two official plugins are available:
+## Introduction -
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+VideoHub is a modern platform built with React and Chakra UI, designed for users to upload and view video content seamlessly.
+
+## Features -
+
+- Upload videos to the platform
+- View uploaded videos
+- User-friendly interface with Chakra UI
+- Responsive design for optimal viewing on all devices
+
+## Installation -
+
+To get a local copy up and running, follow these steps:
+
+1. **Clone the repository:**
+
+   ```cmd
+   git clone https://github.com/your-username/videohub.git
+
+2. Navigate to the project directory:
+   ```cmd
+   cd videohub
+
+3. Install dependencies:
+   
+   ```cmd
+   bun install
+   
+4. Start server:
+   ```cmd
+   bun run dev    
